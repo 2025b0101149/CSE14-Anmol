@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(188, 38, 83);
+    h1{
+        color: rgb(80, 153, 217);
+    }
+}
+table{
+     border-color:rgb(42, 196, 12);
+     border-style: dashed;
+}
